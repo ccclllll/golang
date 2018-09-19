@@ -1,0 +1,22 @@
+{
+  "name": "Tokyo",
+  "coord": {
+    "lon": 139.69,
+    "lat": 35.69
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04n"
+    }
+  ],
+  "main": {
+    "temp": 296.69,
+    "pressure": 1014,
+    "humidity": 83,
+    "temp_min": 295.37,
+    "temp_max": 298.15
+  }
+}
